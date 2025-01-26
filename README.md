@@ -1,5 +1,5 @@
-# Sepiida
-cuttlefish for your networking
+# Cuttlephish
+cuttlephish for your networking
 The goal of this project is to provide an easy method for getting Squid setup on your network. 
 We are not affiliated with the Squid project in anyway we only provide the custom domain blocklist from our github.
 
